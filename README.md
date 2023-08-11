@@ -24,3 +24,7 @@ Following these changes, we commenced another iteration feedback to check the va
 2.  https://www.caresearch.com.au/Portals/20/Documents/Health-Professionals/NeedsAssessmentTool-ProgressiveDiseaseCHeRP.pdf
 3.  https://study.com/academy/lesson/what-is-physical-health-definition-components-examples.html
 4.  Note that all categories, except Physical Health, are generic and applicable to any chronic illness. Physical Health includes some illness-specific terms.
+
+
+[![DOI](https://zenodo.org/badge/676100723.svg)](https://zenodo.org/badge/latestdoi/676100723)
+
